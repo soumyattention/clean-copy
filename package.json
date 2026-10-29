@@ -1,0 +1,7 @@
+{
+  "name": "clean-copy",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Clean X links as you copy them",
+  "scripts": { "test": "node tests/copy.test.cjs" }
+}
